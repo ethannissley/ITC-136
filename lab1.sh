@@ -1,4 +1,4 @@
-# this is a comment
+# Linux commands for: 
 
 whoami  # Tells me which user I’m logged in as (who)
 pwd # Stands for ‘print working directory’ and tells me where I am (where)
