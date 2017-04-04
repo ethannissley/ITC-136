@@ -5,3 +5,7 @@ pwd     # Stands for ‘print working directory’ and tells me where I am (wher
 ls      # Tells me what files are in the directory (what)
 cd      # Allows me to change into other directories( navigation)
 date    # What time it is on the machine (when)
+
+/var/root cat example.sh
+
+echo "this is text... from a command. yay"
