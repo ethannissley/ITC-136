@@ -8,4 +8,5 @@ date       # What time it is on the machine (WHEN)
 
 /var/root cat example.sh
 
+#!/bin/sh
 echo "this is text... from a command. yay"
