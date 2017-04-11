@@ -43,3 +43,28 @@ linux
 
 BSD
 -OSx
+
+Windows and Canonicol(ubuntu) integration
+-Bash 
+-GNU tools
+-Sygwin tools
+
+
+Zypper  install ___(Suse and Open Suse) RPM
+apt-get install ___(Debian and Ubuntu) .DEB
+yum install _______(Red Hat, Fedora, and Centos) RPM
+^used to interact with packages and re-pos 
+(package managers)
+
+Embedded Systems
+-android (smart phone)
+-iOS(smartphone/tablet/watch)
+-rumba
+-calculators
+-surveillance cameras
+-nest thermostats
+-security systems
+
+
+
+
