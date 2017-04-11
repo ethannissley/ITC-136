@@ -1,0 +1,35 @@
+Unix(monopoly)
+    -Bell Labs
+    -Berekely
+    -copywrite
+    -BSD (think academia)
+    
+1991 Linus  
+    -uses minix
+    -turns into linux (version of unix not BSD)
+    -GNU (richard Stalman) (grep, top, is, cat) (commitment to open source)
+    
+BSD kernel is different than Linux kernel
+
+Debian:
+Ubuntu (owned by Canonicol):
+-extremely user friendly for linux
+-militantly free tech support
+
+Red Hat (secure but boring like Debian) <----------------> licences
+-Centos
+-Fedora (similar to Ubuntu as it is unstable but more cutting edge)
+-Suse (similar to Red Hat)(desktop and server integration and sits somewhere between ubuntu and redhat) ----> Open Suse
+
+BSD
+-free BSD released in 1993
+-net BSD and OPEN BSD
+-security centric
+-BSD "jails"
+-chrooting
+
+linux
+-android
+
+BSD
+-OSx
