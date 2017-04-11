@@ -1,3 +1,13 @@
+Hardware - disk, monitor, keyboard, mouse, motherboard, ram, cpu, video cord 
+Operating system     
+       - drivers
+       - system calls "libraries"
+       - kernel(cpu time-processed/calculated, memory allocation, process,additional resources)
+       - micro kernels and monolithic kernels
+       - kernel moduals
+Application
+User Interface
+
 Unix(monopoly)
     -Bell Labs
     -Berekely
