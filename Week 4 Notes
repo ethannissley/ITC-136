@@ -11,3 +11,5 @@ Telnet/FTP --> File Transfer Protocol
 SFTP --> Secure File Transfer Protocol
 
 GUI --> X Forwarding
+
+low level code - stuff to do with assembly
