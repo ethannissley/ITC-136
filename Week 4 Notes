@@ -1,0 +1,13 @@
+SSHD configuration --> Secure SHell Daemon (daemon = service) 
+
+SCP --> Secure Copy Protocol (encrypted file transfer)
+
+SSH --> Secure SHell (login shell)
+
+TCP: 22 (Transmission Control Protocol # for SSH)
+
+Telnet/FTP --> File Transfer Protocol
+
+SFTP --> Secure File Transfer Protocol
+
+GUI --> X Forwarding
