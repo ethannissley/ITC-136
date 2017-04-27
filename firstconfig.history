@@ -1,0 +1,89 @@
+    1  sudo su
+    2  apt-get install kubuntu-desktop
+    3  apt-get install kde-baseapps
+    4  sudo su
+    5  whoami
+    6  ps
+    7  ps aux
+    8  ps aux | more
+    9  kill 12086
+   10  ps aux | terminal
+   11  ps aux | grep terminal
+   12  top
+   13  lsof | more
+   14  sudo su
+   15  cd -
+   16  cd Desktop/
+   17  ls -l
+   18  echo "test" >> test.text
+   19  echo "test"
+   20  vim 
+   21  sudo su
+   22  git | less
+   23  git clone https://github.com/ethannissley/ITC-136.git
+   24  ls -l
+   25  cd ITC-136/
+   26  git config user.name "ethannissley"
+   27  history
+   28  history >> ../Desktop/history.out
+   29  geat
+   30  git
+   31  cd ..
+   32  git clone https://github.com/ethannissley/ITC-136
+   33  ls -ltra
+   34  cd .get
+   35  cd ITC-136
+   36  ls -la
+   37  cd .get
+   38  cd .git
+   39  ls -la
+   40  git config --global user.email "ethannissley96@gmail.com"
+   41  git config --global user.name "ethannissley"
+   42  history >> firstconfig.history
+    1  sudo su
+    2  apt-get install kubuntu-desktop
+    3  apt-get install kde-baseapps
+    4  sudo su
+    5  whoami
+    6  ps
+    7  ps aux
+    8  ps aux | more
+    9  kill 12086
+   10  ps aux | terminal
+   11  ps aux | grep terminal
+   12  top
+   13  lsof | more
+   14  sudo su
+   15  cd -
+   16  cd Desktop/
+   17  ls -l
+   18  echo "test" >> test.text
+   19  echo "test"
+   20  vim 
+   21  sudo su
+   22  git | less
+   23  git clone https://github.com/ethannissley/ITC-136.git
+   24  ls -l
+   25  cd ITC-136/
+   26  git config user.name "ethannissley"
+   27  history
+   28  history >> ../Desktop/history.out
+   29  geat
+   30  git
+   31  cd ..
+   32  git clone https://github.com/ethannissley/ITC-136
+   33  ls -ltra
+   34  cd .get
+   35  cd ITC-136
+   36  ls -la
+   37  cd .get
+   38  cd .git
+   39  ls -la
+   40  git config --global user.email "ethannissley96@gmail.com"
+   41  git config --global user.name "ethannissley"
+   42  history >> firstconfig.history
+   43  ls
+   44  ls -l
+   45  git add firstconfig.history
+   46  cd .git
+   47  history >> firstconfig.history
