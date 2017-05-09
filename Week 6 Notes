@@ -1,0 +1,27 @@
+useradd/adduser - just 1 standalone desktop
+
+Lightweight Dirctory Access Protocol
+LDAP(add users via LDAP or AD)(used by Linux and Mac) --> Linux --> LDAP 
+
+Active Directory(used by Windows) --> Windows --> LDAP
+
+Internet Engineering Task Force (IETF)
+
+Request for Comments (RFC)
+
+
+System Account UID  100-500
+
+autobackup -UID 425
+
+/bin/nologin
+
+Groups
+-Perms
+Philophesies:
+Project - Put people in groups by the things they're working on (users and staff)
+User - When user is created so is Bob a group by the same name Bob <-- User
+                                                               Bob <-- Group
+                                                               
+Ubuntu uses user philosophy because it asks for your username
+
