@@ -29,3 +29,11 @@ Ubuntu uses user philosophy because it asks for your username
 
 
 
+sudo su --> perms to everything UID
+
+login
+
+User Admin:
+cant find:
+7. Become root, cd etc/skel#
+ls -a
