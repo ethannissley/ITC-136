@@ -1,0 +1,8 @@
+sudo su --> perms to everything UID
+
+login
+
+User Admin:
+cant find:
+7. Become root, cd etc/skel#
+ls -a
