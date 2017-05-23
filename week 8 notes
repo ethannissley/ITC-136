@@ -1,0 +1,22 @@
+from https://github.com/nic-instruction/ITC-136:
+
+diskused=$( df -h | grep "/dev/sda1" | awk '{print $5}' )
+
+memfree=$( free -mh | grep Mem: | awk '{print $7}' )
+
+connections=$( netstat | grep tcp )
+
+users=$( who )
+
+
+
+
+path line is important because 
+
+(!# /bin/bash) shabang line -tells interpreter what language it is dealing with 
+
+How to put somehting in variable? =
+
+$() or `` (backticks which are found above tab key) is used in defining variables
+
+how do we redirect output of a command to a file? >>
