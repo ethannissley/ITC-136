@@ -5,6 +5,31 @@ c:\programFiles\Rythmbox --> libs and exes
 security and portablity:
 /home/ethan --> desktop, videos, doucments, pictures, music, share/public
 
+NFS
+LDAP
+SSH keys
+
+
+/var/log/
+    /mail/ <--semi perminant
+    /spool/
+    /caps/
+
+bin <-- user binaries 
+sbin <-- system binary
+lib <-- libraries
+share <-- fonts/pics
+
+/bin             (base functionality)
+/sbin            (base functionality)
+/lib             (base functionality)
+/usr/sbin        (function with users)
+/usr/local ""    (function with users)
+/opt             (function with users)
+^Solaris/BSD 
+
+Na
+
 
 
 
