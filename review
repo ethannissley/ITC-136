@@ -1,0 +1,35 @@
+command for looking at processes: ps  
+
+arguments to show it on system: aux
+
+list what users are logged in: w  or who
+
+how to kill user sesssion: ps aux 
+                           kill PID (ex. 1052)
+                           
+change directory to boot:  cd~
+
+open a text file with an editor: vim filename
+
+install package: sudo apt-get install package
+
+search for package name: apt-cache search thingimsearchingfor
+
+work youve don: history
+
+write history to file: history >> filename
+
+if you output two different histories: it will append the new history to the new user
+
+look at a man page: man vim 
+                    man ssh
+                    man -k desktop
+                    man -k blueberries
+                    man -help
+                    
+manual for man command (list all options for man -k): man man 
+
+
+                            
+                  
+
